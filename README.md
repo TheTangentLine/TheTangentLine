@@ -26,6 +26,8 @@ Previously in Vietnam, I coached a school team for math competitions.
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" height="40" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="40" />
+  <img src="https://img.shields.io/badge/-Overleaf-1A1A1A?style=for-the-badge&logo=overleaf&logoColor=3F4F65" alt="Overleaf" height="40" />
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" height="40" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="40" />
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="40" />  
 </p>
