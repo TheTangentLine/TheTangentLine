@@ -36,8 +36,5 @@ Previously in Vietnam, I coached a school team for math competitions.
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" />
 </p>
 
-## 📫 Connect with me  
-[<img src="https://img.shields.io/github/followers/TheTangentLine?label=Follow&style=social" alt="GitHub followers" height="30"/>](https://github.com/TheTangentLine)
-
 
 
