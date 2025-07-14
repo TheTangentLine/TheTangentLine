@@ -1,4 +1,4 @@
-# Hi there, I'm Marvin Truong 👋  
+# Hi there, I'm Marvin Truong 
 ### aka TheTangentLine
 
 ## 👨‍🎓 About Me  
