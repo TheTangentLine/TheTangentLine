@@ -5,9 +5,6 @@
 I'm Marvin Truong (Minh Kha Truong), a **first-year student** at **Queensland University of Technology (QUT)**, pursuing a **Bachelor of IT** with a major in Computer Science.  
 Passionate about **Software Development** and currently diving deep into **Web Development**.
 
-Currently, I’m also working as a **Math Tutor**, helping students unlock their potential.  
-Previously in Vietnam, I coached a school team for math competitions.
-
 ## 🛠️ Skills  
 
 <p align="left">
