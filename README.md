@@ -20,13 +20,11 @@ Passionate about **Software Development** and currently diving deep into **Web D
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" height="30" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="30" />
   <img src="https://img.shields.io/badge/-Swagger-19B6B5?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" height="30" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" height="30" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="30" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30" />
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" height="30" />
   <img src="https://img.shields.io/badge/-Overleaf-1A1A1A?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" height="30" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" />
 </p>
 
 
