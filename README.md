@@ -1,7 +1,4 @@
-# Hi there, I'm Marvin Truong 
-### aka TheTangentLine
-
-## 👨‍🎓 About Me  
+ ## 👨‍🎓 About Me  
 I'm Marvin Truong (Minh Kha Truong), a **first-year student** at **Queensland University of Technology (QUT)**, pursuing a **Bachelor of IT** with a major in Computer Science.  
 
 ## ⚙️ Programming Languages
